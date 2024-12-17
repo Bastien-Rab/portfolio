@@ -7,6 +7,8 @@ prise de décision stratégique et la transformation digitale des entreprises.
 Mon objectif est de devenir un véritable pont entre les besoins opérationnels et les solutions data-driven, grâce à mon sens
 de l’analyse, mon adaptabilité, et une approche orientée résultats.
 
+---
+
 ### **Expérience Professionnelle**
 
 - **Directeur d'Agence Bancaire**  
@@ -40,6 +42,7 @@ de l’analyse, mon adaptabilité, et une approche orientée résultats.
   *décembre 2011 – septembre 2016*  
   - Accompagnement des clients dans leurs besoins financiers.
 
+---
 
 ## **Formation**
 
@@ -58,6 +61,8 @@ de l’analyse, mon adaptabilité, et une approche orientée résultats.
 - **BTS : Banque, marché des particuliers**  
   *Enseignement Supérieur St Charles*  
   *Septembre 2008 – Juin 2010*  
+
+---
 
 ## Portoflio
 
