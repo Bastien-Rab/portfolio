@@ -1,17 +1,5 @@
 # DATA ANALYST
 
-Ancien directeur d’agence bancaire avec plus de 10 ans d’expérience en front office, je me reconvertis dans la data
-pour mettre mes compétences en gestion et en analyse au service de solutions data-driven.
-Formé à Python, SQL, Tableau et Power BI, je transforme les données en insights actionnables pour accompagner la
-prise de décision stratégique et la transformation digitale des entreprises.
-Mon objectif : devenir un véritable pont entre les besoins opérationnels et les solutions data-driven, grâce à mon sens
-de l’analyse, mon adaptabilité, et une approche orientée résultats.
-
-<!---
-Bastien-Rab/Bastien-Rab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ## PORTFOLIO
 
 | Projet | Résumé | Langages et Outils |
