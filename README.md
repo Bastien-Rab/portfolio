@@ -25,7 +25,7 @@ BTS : Banque, marché des particuliers
 Enseignement Supérieur St Charles
 Septembre 2008 – Juin 2010
 
-## PORTFOLIO
+## Portoflio data analyst
 
 | Projet | Résumé | Langages et Outils |
 |--------|--------|---------------------|
