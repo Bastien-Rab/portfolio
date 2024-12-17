@@ -1,30 +1,5 @@
 # DATA ANALYST
 
-Compétences
-Business Intelligence : ● ● ● ● ●
-Storytelling avec les données : ● ● ● ● ●
-Analyse prédictive : ● ● ● ● ○
-Modélisation de données : ● ● ● ● ○
-Bases du Machine Learning : ● ● ● ○ ○
-Gestion de bases de données : ● ● ● ○ ○
----
-Soft Skills
-Communication : ● ● ● ● ●
-Rigueur : ● ● ● ● ●
-Curiosité : ● ● ● ● ○
-Esprit critique : ● ● ● ● ○
-Force de proposition : ● ● ● ● ○
-Travail en équipe : ● ● ● ● ○
----
-Outils
-Excel : ● ● ● ● ●
-Python : ● ● ● ● ○
-SQL : ● ● ● ● ○
-Tableau : ● ● ● ● ○
-Knime : ● ● ● ○ ○
-Power BI : ● ● ● ○ ○
----
-
 ## PORTFOLIO
 
 | Projet | Résumé | Langages et Outils |
