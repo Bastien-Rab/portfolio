@@ -9,7 +9,7 @@ de l’analyse, mon adaptabilité, et une approche orientée résultats.
 
 ---
 
-## Portoflio
+## Portfolio
 
 | Projet | Résumé | Langages et Outils |
 |--------|--------|---------------------|
