@@ -1,13 +1,11 @@
-👋 Hi, I’m @Bastien-Rab
-👀 I’m interested in data analytics, project management, and digital transformation, especially within the banking and finance sector.
+**DATA ANALYST**
 
-🌱 I’m currently learning data analytics through OpenClassrooms, gaining skills in Python, SQL, Power BI, Tableau, and Excel.
-
-💞️ I’m looking to collaborate on data-driven projects that involve business process optimization and change management.
-
-📫 How to reach me: bastien@rabane.fr
-
-⚡ Fun fact: I enjoy long-distance running, from marathons to ultratrails, and I've traveled around the world, visiting 13 countries in one year.
+Ancien directeur d’agence bancaire avec plus de 10 ans d’expérience en front office, je me reconvertis dans la data
+pour mettre mes compétences en gestion et en analyse au service de solutions data-driven.
+Formé à Python, SQL, Tableau et Power BI, je transforme les données en insights actionnables pour accompagner la
+prise de décision stratégique et la transformation digitale des entreprises.
+Mon objectif : devenir un véritable pont entre les besoins opérationnels et les solutions data-driven, grâce à mon sens
+de l’analyse, mon adaptabilité, et une approche orientée résultats.
 
 <!---
 Bastien-Rab/Bastien-Rab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
