@@ -7,23 +7,57 @@ prise de décision stratégique et la transformation digitale des entreprises.
 Mon objectif est de devenir un véritable pont entre les besoins opérationnels et les solutions data-driven, grâce à mon sens
 de l’analyse, mon adaptabilité, et une approche orientée résultats.
 
-## Formation
+### **Expérience Professionnelle**
 
-Certification professionnelle (Niveau 6) : Data Analyst
-OpenClassrooms
-Janvier 2024 – Décembre 2024
+- **Directeur d'Agence Bancaire**  
+  *BNP PARIBAS - Paris 5ème Agence Jussieu Fac des Sciences*  
+  *Décembre 2021 – Octobre 2023*  
+  - Management d'une équipe (5-13 collaborateurs) avec pilotage d’objectifs commerciaux.  
+  - Gestion d’un portefeuille de 130 clients professionnels (CA jusqu’à 1,5M€).  
+  - Approbation de crédits (encours total de 22M€ en 2022).  
+  - Acquisition de 350 nouveaux clients en 2022 grâce à des actions ciblées.
 
-Master 1 : Économie d'entreprise et finance des marchés
-CNAM
-Octobre 2018 – Juin 2019
+- **Conseiller Spécialisé en Immobilier**  
+  *BNP PARIBAS - Paris, 5ème et 6ème arrondissement*  
+  *Octobre 2018 – Décembre 2021*  
+  - Expertise en financement immobilier pour 13 agences.  
+  - Plus de 300 financements immobiliers validés (100M€ d’encours sur 3 ans).  
+  - Adaptation aux spécificités du marché immobilier local.
 
-Licence professionnelle : Assurance, Banque, Finance spécialisée dans les carrières de l’immobilier
-Université d'Évry Paris-Saclay
-Septembre 2010 – Août 2011
+- **Chargé d'Affaires Immobilier**  
+  *Crédit Agricole - Paris (CDD)*  
+  *Novembre 2017 – Juin 2018*  
+  - Vente de programmes immobiliers neufs (dispositifs Pinel, LMNP).  
+  - Analyse patrimoniale et optimisation fiscale des projets clients.  
+  - Suivi des performances et pilotage de l’activité commerciale.
 
-BTS : Banque, marché des particuliers
-Enseignement Supérieur St Charles
-Septembre 2008 – Juin 2010
+- **Voyage autour du monde**  
+  *Octobre 2016 – Septembre 2017*  
+  - Exploration autonome de 13 pays.
+
+- **Conseiller Financier**  
+  *Caisse d'Épargne - Paris 15ème*  
+  *décembre 2011 – septembre 2016*  
+  - Accompagnement des clients dans leurs besoins financiers.
+
+
+## **Formation**
+
+- **Certification professionnelle (Niveau 6) : Data Analyst**  
+  *OpenClassrooms*  
+  *Janvier 2024 – Décembre 2024*  
+
+- **Master 1 : Économie d'entreprise et finance des marchés**  
+  *CNAM*  
+  *Octobre 2018 – Juin 2019*  
+
+- **Licence professionnelle : Assurance, Banque, Finance spécialisée dans les carrières de l’immobilier**  
+  *Université d'Évry Paris-Saclay*  
+  *Septembre 2010 – Août 2011*  
+
+- **BTS : Banque, marché des particuliers**  
+  *Enseignement Supérieur St Charles*  
+  *Septembre 2008 – Juin 2010*  
 
 ## Portoflio
 
