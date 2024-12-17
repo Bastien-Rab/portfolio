@@ -7,6 +7,24 @@ prise de décision stratégique et la transformation digitale des entreprises.
 Mon objectif est de devenir un véritable pont entre les besoins opérationnels et les solutions data-driven, grâce à mon sens
 de l’analyse, mon adaptabilité, et une approche orientée résultats.
 
+## Formation
+
+Certification professionnelle (Niveau 6) : Data Analyst
+OpenClassrooms
+Janvier 2024 – Décembre 2024
+
+Master 1 : Économie d'entreprise et finance des marchés
+CNAM
+Octobre 2018 – Juin 2019
+
+Licence professionnelle : Assurance, Banque, Finance spécialisée dans les carrières de l’immobilier
+Université d'Évry Paris-Saclay
+Septembre 2010 – Août 2011
+
+BTS : Banque, marché des particuliers
+Enseignement Supérieur St Charles
+Septembre 2008 – Juin 2010
+
 ## PORTFOLIO
 
 | Projet | Résumé | Langages et Outils |
